@@ -31,7 +31,7 @@ The reviews were divided into 8 subsets:
 
 ## NLTK analysis
 
-Python has a natural language processing tool called the Natural Language Toolkit, which has methods to count instances of certain words in text (as well as display their context). A list of words that are typically only used to describe females was counted in the subsets of data relating to actors:
+Python has a natural language processing tool called the Natural Language Toolkit, which has methods to count instances of certain words in text (as well as display their context). A list of words that are typically only used to describe females was counted in the subsets of data relating to actors, when they were used to describe women:
 
 ![Image of Yaktocat](https://roopa-ramanujam.github.io/iw2018/word_counts_female_true.png)
 
@@ -63,13 +63,13 @@ Male critics, male director
 
 ## Word2Vec analysis
 
-Word2Vec is a tool that, given a body of text to train on, will build vectors for the words in the text. With Word2Vec you can input a word and get the words most similar to that word based off the input body of text alone.
+Word2Vec is a tool that, given a body of text to train on, will build vectors for the words in the text. With Word2Vec you can input a word and get the words most similar to that word based off the input body of text alone. This analysis was conducted separately on each of the 8 subsets of data described above (FcFa, McFa, etc.) The most similar words to the input words are shown below:
 
-Results for most similar words for reviews separated by gender of actor:
+Most similar words for actor subsets:
 
 ![Image of Yaktocat](https://roopa-ramanujam.github.io/iw2018/w2vactor.png)
 
-Results for most similar words for reviews separated by gender of director:
+Results for most similar words for director subsets:
 
 ![Image of Yaktocat](https://roopa-ramanujam.github.io/iw2018/w2vdirector.png)
 
