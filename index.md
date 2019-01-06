@@ -1,6 +1,6 @@
 # Visualizing Gender Bias in Movie Reviews
 
-The goal of this project is to highlight possible gender bias in film reviews in this data set. The underlying assumption is that bias may appear in a variety of ways, from lower scores or more negative reviews by male critics for films starring or directed by women, to the appearance of ”gendered” adjectives or word associations that may be inconsistent depending on the gender of the critic. There have been several movie reviews from the past year or more that have been called out for using sexist language and demeaning women, and there have been studies that have shown that male critics are usually harsher on movies starring women than female critics are. Read more about it here: https://womenintvfilm.sdsu.edu/wp-content/uploads/2018/07/2018_Thumbs_Down_Report.pdf
+The goal of this project is to highlight possible gender bias in film reviews in this data set. **The underlying assumption is that bias may appear in a variety of ways, from lower scores or more negative reviews by male critics for films starring or directed by women, to the appearance of ”gendered” adjectives or word associations that may be inconsistent depending on the gender of the critic.** There have been several movie reviews from the past year or more that have been called out for using sexist language and demeaning women, and there have been studies that have shown that male critics are usually harsher on movies starring women than female critics are. Read more about it here: https://womenintvfilm.sdsu.edu/wp-content/uploads/2018/07/2018_Thumbs_Down_Report.pdf
 
 Around 3000 reviews were collected from the New York Times, annotated for the gender of the director/lead actor, and analyzed in several ways for possible gender bias.
 
@@ -76,7 +76,7 @@ Results for most similar words for director subsets:
 
 ## Sentiment analysis
 
-The Stanford NLP lab created a tool that takes in a body of text and computes a sentiment and score for each sentiment from 0-4. The values are "very negative"(0), "negative" (1), "neutral" (2), "positive" (3), "very positive" (4). 
+The Stanford NLP lab created a tool that takes in a body of text and computes a sentiment and score for each sentence from 0-4. The values are "very negative"(0), "negative" (1), "neutral" (2), "positive" (3), "very positive" (4). 
 
 
 The graphs below plot the percentage of a review that is assigned each of these labels, for all of the reviews:
