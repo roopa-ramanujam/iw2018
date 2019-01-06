@@ -1,14 +1,11 @@
-## Welcome to GitHub Pages
+## Visualizing Gender Bias in Movie Reviews
 You can use the [editor on GitHub](https://github.com/roopa-ramanujam/iw2018/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The goal of this project is to highlight possible gender bias in film reviews in this data set. Around 3000 reviews were collected from the New York Times and analyzed in several ways for possible gender bias.
 
-### Markdown
+### Metadata
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+Metadata refers to information about the data set in general.
 
 # Header 1
 ## Header 2
