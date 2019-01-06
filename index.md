@@ -37,6 +37,18 @@ Python has a natural language processing tool called the Natural Language Toolki
 
 NLTK can also generate word clouds for sets of text, with words that are most frequent in the text appearing the largest. 
 
+Female critics, female star
+![Image of Yaktocat](https://roopa-ramanujam.github.io/iw2018/FcFa_wc.png)
+
+Male critics, female star
+![Image of Yaktocat](https://roopa-ramanujam.github.io/iw2018/McFa_wd.png)
+
+Female critics, male star
+![Image of Yaktocat](https://roopa-ramanujam.github.io/iw2018/FcMa_wd.png)
+
+Male critics, male star
+![Image of Yaktocat](https://roopa-ramanujam.github.io/iw2018/McMa_wd.png)
+
 ## Word2Vec analysis
 
 Word2Vec is a tool that, given a body of text to train on, will build vectors for the words in the text. With Word2Vec you can input a word and get the words most similar to that word based off the input body of text alone.
@@ -53,13 +65,14 @@ Results for most similar words for reviews separated by gender of director:
 
 The Stanford NLP lab created a tool that takes in a body of text and computes a sentiment and score for each sentiment from 0-4. The values are "very negative," "negative," "neutral," "positive," "very positive," with "very negative" assigned a score of 0. 
 
-The tables below show the average percentage of a review that is assigned each of these labels for each data subset:
 
-![Image of Yaktocat](https://roopa-ramanujam.github.io/iw2018/sent_actor_percent.png)
-![Image of Yaktocat](https://roopa-ramanujam.github.io/iw2018/sent_director_percent.png)
-
-The graphs below plot the percentages for all of the reviews:
+The graphs below plot the percentage of a review that is assigned each of these labels, for all of the reviews:
 
 ![Image of Yaktocat](https://roopa-ramanujam.github.io/iw2018/actor_percent_sentiment_parallel.png)
 ![Image of Yaktocat](https://roopa-ramanujam.github.io/iw2018/director_percent_sentiment_parallel.png)
+
+The tables below show the average percentages of these labels for a review from each data subset:
+
+![Image of Yaktocat](https://roopa-ramanujam.github.io/iw2018/sent_actor_percent.png)
+![Image of Yaktocat](https://roopa-ramanujam.github.io/iw2018/sent_director_percent.png)
 
