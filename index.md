@@ -49,6 +49,18 @@ Female critics, male star
 Male critics, male star
 ![Image of Yaktocat](https://roopa-ramanujam.github.io/iw2018/McMa_wd.png)
 
+Female critics, female director
+![Image of Yaktocat](https://roopa-ramanujam.github.io/iw2018/FcFd_wd.png)
+
+Male critics, female director
+![Image of Yaktocat](https://roopa-ramanujam.github.io/iw2018/McFd_wd.png)
+
+Female critics, male director
+![Image of Yaktocat](https://roopa-ramanujam.github.io/iw2018/FcMd_wd.png)
+
+Male critics, male director
+![Image of Yaktocat](https://roopa-ramanujam.github.io/iw2018/McMd_wd.png)
+
 ## Word2Vec analysis
 
 Word2Vec is a tool that, given a body of text to train on, will build vectors for the words in the text. With Word2Vec you can input a word and get the words most similar to that word based off the input body of text alone.
