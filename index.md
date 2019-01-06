@@ -1,6 +1,6 @@
 # Visualizing Gender Bias in Movie Reviews
 
-The goal of this project is to highlight possible gender bias in film reviews in this data set. There have been several movie reviews from the past year or more that have been called out for using sexist language and demeaning women, and there have been studies that have shown that male critics are usually harsher on movies starring women than female critics are. Read more about it here: ![link](https://womenintvfilm.sdsu.edu/wp-content/uploads/2018/07/2018_Thumbs_Down_Report.pdf)
+The goal of this project is to highlight possible gender bias in film reviews in this data set. There have been several movie reviews from the past year or more that have been called out for using sexist language and demeaning women, and there have been studies that have shown that male critics are usually harsher on movies starring women than female critics are. Read more about it here: https://womenintvfilm.sdsu.edu/wp-content/uploads/2018/07/2018_Thumbs_Down_Report.pdf
 
 Around 3000 reviews were collected from the New York Times and analyzed in several ways for possible gender bias.
 
