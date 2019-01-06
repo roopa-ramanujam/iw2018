@@ -49,12 +49,12 @@ Results for most similar words for reviews separated by gender of director:
 
 The Stanford NLP lab created a tool that takes in a body of text and computes a sentiment and score for each sentiment from 0-4. The values are "very negative," "negative," "neutral," "positive," "very positive," with "very negative" assigned a score of 0. 
 
-The tables below show the average percentage of a review that is assigned each of these labels for each data subset.
+The tables below show the average percentage of a review that is assigned each of these labels for each data subset:
 
 ![Image of Yaktocat](https://roopa-ramanujam.github.io/iw2018/sent_actor_percent.png)
 ![Image of Yaktocat](https://roopa-ramanujam.github.io/iw2018/sent_director_percent.png)
 
-The plots below show the percentage of each review that is assigned each of these labels for all of the reviews in the appropriate data subsets.
+The graphs below plot the percentages for all of the reviews:
 
 ![Image of Yaktocat](https://roopa-ramanujam.github.io/iw2018/actor_percent_sentiment_parallel.png)
 ![Image of Yaktocat](https://roopa-ramanujam.github.io/iw2018/director_percent_sentiment_parallel.png)
