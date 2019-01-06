@@ -22,7 +22,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://roopa-ramanujam.github.io/iw2018/word_counts_female_true.png)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
