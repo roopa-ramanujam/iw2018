@@ -16,7 +16,7 @@ Metadata refers to information about the data set in general. Some important fac
 - 2352 reviews about male-directed films
 
 - 653 reviews about male-starring films
-- 1305 reviews about femlae-starring films
+- 1305 reviews about female-starring films
 
 The reviews were divided into 8 subsets: 
 - Female critic reviews about female starring films (FcFa)
@@ -31,11 +31,20 @@ Python has a natural language processing tool called the Natural Language Toolki
 
 ![Image of Yaktocat](https://roopa-ramanujam.github.io/iw2018/word_counts_female_true.png)
 
+NLTK can also generate word clouds for sets of text, with words that are most frequent in the text appearing the largest. 
 
-### Jekyll Themes
+## Word2Vec analysis
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/roopa-ramanujam/iw2018/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Word2Vec is a tool that, given a body of text to train on, will build vectors for the words in the text. With Word2Vec you can input a word and get the words most similar to that word based off the input body of text alone.
 
-### Support or Contact
+Results for most similar words for reviews separated by gender of actor:
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Image of Yaktocat](https://roopa-ramanujam.github.io/iw2018/w2vactor.png)
+
+Results for most similar words for reviews separated by gender of director:
+
+![Image of Yaktocat](https://roopa-ramanujam.github.io/iw2018/w2vdirector.png)
+
+## Sentiment analysis
+
+The Stanford NLP lab created a tool that takes in a body of text and computes a sentiment and score for each sentiment from 0-4. The values are "very negative," "negative," "neutral," "positive," "very positive," with "very negative" assigned a score of 0. 
