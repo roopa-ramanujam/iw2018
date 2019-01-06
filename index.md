@@ -4,6 +4,14 @@ The goal of this project is to highlight possible gender bias in film reviews in
 
 Around 3000 reviews were collected from the New York Times, annotated for the gender of the director/lead actor, and analyzed in several ways for possible gender bias.
 
+
+The reviews were divided into 8 subsets: 
+- Female critic reviews about female starring films (FcFa)
+- Male critic reviews about female starring films (McFa)
+- Female critic reviews about male starring films (FcMa)
+- Male critic reviews about male starring films (McMa)
+- ... and similarly for female and male-directed films.
+
 ## Metadata
 
 Metadata refers to information about the data set in general. Some important facts about this data set:
@@ -21,13 +29,6 @@ Metadata refers to information about the data set in general. Some important fac
 This translates to:
 
 ![Image of Yaktocat](https://roopa-ramanujam.github.io/iw2018/actor_director_breakdown.png)
-
-The reviews were divided into 8 subsets: 
-- Female critic reviews about female starring films (FcFa)
-- Male critic reviews about female starring films (McFa)
-- Female critic reviews about male starring films (FcMa)
-- Male critic reviews about male starring films (McMa)
-- ... and similarly for female and male-directed films.
 
 ## NLTK analysis
 
