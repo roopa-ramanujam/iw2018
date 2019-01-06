@@ -82,7 +82,12 @@ The Stanford NLP lab created a tool that takes in a body of text and computes a 
 The graphs below plot the percentage of a review that is assigned each of these labels, for all of the reviews:
 
 ![Image of Yaktocat](https://roopa-ramanujam.github.io/iw2018/actor_percent_sentiment_parallel.png)
+
+(yellow = FcFa, teal = McFa, purple = FcMa, pink = McMa)
+
 ![Image of Yaktocat](https://roopa-ramanujam.github.io/iw2018/director_percent_sentiment_parallel.png)
+
+(orange = FcFa, green = McFa, maroon = FcMa, lilac = McMa)
 
 The tables below show the average percentages of these labels for a review from each data subset:
 
