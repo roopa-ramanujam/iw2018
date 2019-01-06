@@ -1,4 +1,4 @@
-## Visualizing Gender Bias in Movie Reviews
+# Visualizing Gender Bias in Movie Reviews
 You can use the [editor on GitHub](https://github.com/roopa-ramanujam/iw2018/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 The goal of this project is to highlight possible gender bias in film reviews in this data set. Around 3000 reviews were collected from the New York Times and analyzed in several ways for possible gender bias.
