@@ -18,6 +18,10 @@ Metadata refers to information about the data set in general. Some important fac
 - 653 reviews about male-starring films
 - 1305 reviews about female-starring films
 
+This translates to:
+
+![Image of Yaktocat](https://roopa-ramanujam.github.io/iw2018/actor_director_breakdown.png)
+
 The reviews were divided into 8 subsets: 
 - Female critic reviews about female starring films (FcFa)
 - Male critic reviews about female starring films (McFa)
