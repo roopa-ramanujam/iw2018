@@ -4,7 +4,7 @@ The goal of this project is to highlight possible gender bias in film reviews in
 
 Around 3000 reviews were collected from the New York Times and analyzed in several ways for possible gender bias.
 
-### Metadata
+## Metadata
 
 Metadata refers to information about the data set in general. Some important facts about this data set:
 
@@ -16,17 +16,21 @@ Metadata refers to information about the data set in general. Some important fac
 - 2352 reviews about male-directed films
 
 - 653 reviews about male-starring films
-- 1305 revies about femlae-starring films
-![actor director breakdown](https://roopa-ramanujam.github.io/iw2018/actor-director-breakdown.png)
+- 1305 reviews about femlae-starring films
 
-1. Numbered
-2. List
+The reviews were divided into 8 subsets: 
+- Female critic reviews about female starring films (FcFa)
+- Male critic reviews about female starring films (McFa)
+- Female critic reviews about male starring films (FcMa)
+- Male critic reviews about male starring films (McMa)
+- ... and similarly for female and male-directed films.
 
-**Bold** and _Italic_ and `Code` text
+## NLTK analysis
+
+Python has a natural language processing tool called the Natural Language Toolkit, which has methods to count instances of certain words in text (as well as display their context). A list of words that are typically only used to describe females was counted in the subsets of data relating to actors:
 
 ![Image of Yaktocat](https://roopa-ramanujam.github.io/iw2018/word_counts_female_true.png)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
