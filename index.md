@@ -76,7 +76,7 @@ Results for most similar words for director subsets:
 
 ## Sentiment analysis
 
-The Stanford NLP lab created a tool that takes in a body of text and computes a sentiment and score for each sentiment from 0-4. The values are "very negative," "negative," "neutral," "positive," "very positive," with "very negative" assigned a score of 0. 
+The Stanford NLP lab created a tool that takes in a body of text and computes a sentiment and score for each sentiment from 0-4. The values are "very negative"(0), "negative" (1), "neutral" (2), "positive" (3), "very positive" (4). 
 
 
 The graphs below plot the percentage of a review that is assigned each of these labels, for all of the reviews:
