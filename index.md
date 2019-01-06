@@ -22,7 +22,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![test image]({{ site.url }}/iw2018/word_counts_female_true.png)
+[Link](url) and ![test image]({{ site.url/iw2018/word_counts_female_true.png}})
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
